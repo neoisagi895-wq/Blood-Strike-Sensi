@@ -1,0 +1,9 @@
+{
+  "mode": "natural",
+  "inputOffset": 2.0,
+  "outputOffset": 0.0,
+  "decayRate": 0.05,
+  "limit": 1.6,
+  "Cap mode": "output",
+  "Cap / Jump": { "x": 15.0, "y": 1.75 }
+}
